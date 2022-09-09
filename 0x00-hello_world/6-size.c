@@ -4,6 +4,9 @@
  * main -prints the size of various types on the computer
  *
  * Return: returns the value 0 if exit properly, non-zero otherwise
+ * Description: using the main function
+ * this program prints "Programming is like building a multilingualpuzzle
+ * Return: 0
  */
 int main(void)
 {
