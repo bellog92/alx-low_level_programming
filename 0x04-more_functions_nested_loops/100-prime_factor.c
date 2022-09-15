@@ -1,5 +1,5 @@
-nclude < stdio.h >
 #include "main.h"
+#include <stdio.h>
 
 /**
  * main - checks for checks for a digit (0 through 9).
@@ -12,7 +12,7 @@ int main(void)
 
 	x = 612852475143;
 
-	for (y = 2; x > y ; y++)
+	for (y = 2; x > y; y++)
 	{
 		while (x % y == 0)
 		{
